@@ -1,0 +1,19 @@
+{"SART 68":
+  {"distrib": "ART",
+  "offered": "13F: 2A;  14S: 10A", 
+  "instructor": "Kawiaka", 
+  "description": "As an extension of Intermediate Architecture, this course will offer advanced students the opportunity to explore architectural design issues in more depth. Students will use analytical and expressive skills developed in previous coursework to undertake more complex and thorough investigations in architecture. Can be repeated for credit. Supplemental course fee required. Enrollment limited.", 
+  "title": "Architecture III"}, 
+"JWST 72": 
+  {"distrib": "TMV",
+  "offered": "Not offered in the period from 13F through 15S",
+  "instructor": "Wright", 
+  "description": "", 
+  "title": "History of Heaven"},
+"JWST 70": 
+  {"distrib": "Dist: LIT, WCult: W",
+  "offered": "Not offered in the period from 13F through 15S",
+  "instructor": "Heschel, McKee", 
+  "description": "", 
+  "title": "The Jew in the Protestant Imagination: The Merchant of Venice"}
+}
