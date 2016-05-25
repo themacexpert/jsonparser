@@ -1,22 +1,4 @@
-{"SART 68":
-  {"distrib": "ART",
-  "offered": "13F: 2A;  14S: 10A", 
-  "instructor": "Kawiaka", 
-  "description": "As an extension of Intermediate Architecture, this course will offer advanced students the opportunity to explore architectural design issues in more depth. Students will use analytical and expressive skills developed in previous coursework to undertake more complex and thorough investigations in architecture. Can be repeated for credit. Supplemental course fee required. Enrollment limited.", 
-  "title": "Architecture III"}, 
-"JWST 72": 
-  {"distrib": "TMV",
-  "offered": "Not offered in the period from 13F through 15S",
-  "instructor": "Wright", 
-  "description": "", 
-  "title": "History of Heaven"},
-"JWST 70": 
-  {"distrib": "Dist: LIT, WCult: W",
-  "offered": "Not offered in the period from 13F through 15S",
-  "instructor": "Heschel, McKee", 
-  "description": "", 
-  "title": "The Jew in the Protestant Imagination: The Merchant of Venice"},
-  
+{
   "SART 68":[
 	{
 		"distrib": "ART", 
@@ -31,6 +13,17 @@
 	"instructor": "Holcombe", 
 	"description": "This seminar continues the focus on the application of theories and research to teaching practice begun in EDUC 45 the previous spring. Topics include pedagogical content knowledge, curriculum planning and implementation, classroom management, assessment, diverse learning needs, social and cultural influences on learning, and professionalism. As a unit, EDUC 46, EDUC 47, and EDUC 48 comprise the culminating experience for candidates for NH State Certification as public school school teachers.", 
 	"title": "Advanced Principles of Secondary School Teaching" }
-]
-  
+],
+"JWST 72": 
+  {"distrib": "TMV",
+  "offered": "Not offered in the period from 13F through 15S",
+  "instructor": "Wright", 
+  "description": "", 
+  "title": "History of Heaven"},
+"JWST 70": 
+  {"distrib": "Dist: LIT, WCult: W",
+  "offered": "Not offered in the period from 13F through 15S",
+  "instructor": "Heschel, McKee", 
+  "description": "", 
+  "title": "The Jew in the Protestant Imagination: The Merchant of Venice"}
 }
